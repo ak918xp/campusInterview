@@ -1,4 +1,4 @@
-public class T1 {
+public class SHEIN_T1 {
     public static void main(String[] args){
         String str ="a  b    c";
         String res=changespaceto20(str);
