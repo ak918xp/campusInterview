@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SHEIN" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SHOPEE" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JD.com" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
