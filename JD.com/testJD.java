@@ -38,7 +38,7 @@ import java.util.Scanner;
  * E→2   EE→3   EE: →7（移动中涉及了转向）   EE:F→9   EE:F.→13（移动中涉及了转向）   EE:F.:→15
  */
 
-public class T1 {
+public class testJD {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         String inputParam = input.nextLine();
